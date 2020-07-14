@@ -1,3 +1,4 @@
+# coding=UTF-8
 from flask import Flask, abort, request, jsonify
 
 # from flask import request
